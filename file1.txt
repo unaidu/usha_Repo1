@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-Hello World1!
 
-this is cool stuffff
-
-
-this is rad stuff
-=======
 Hello World11!
->>>>>>> e4450b4d37274397164324ebd7c8f8e2e4f8f933
+
