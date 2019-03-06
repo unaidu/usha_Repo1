@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 Hello World1!
+
 this is cool stuffff
+
 
 this is rad stuff
 =======
